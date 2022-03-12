@@ -12,3 +12,18 @@ PS NO. |  NAME  |
 99007633| KIRUBAKARAN|
 99007630|DHAYANITHI|
 99007632|FARHATHULLAH|
+
+### FOLDER STRUCTURE
+| Folders  |  Description  |
+|----------|---------------|
+| 1_RKE    | Remote Keyless Entry
+| 2_Bicom System| Bidirectional Communication Of Remote Keyless Entry System
+
+| Contents | DONE BY |
+|---|---|
+| 1Remote_Keyless_Entry CODE in 3_Implementation | Abishek and Kirubakaran K |
+| 1Remote_Keyless_Entry Git Repo | Abishek and Kirubakaran K|
+| 2BiCom_System ONLY CODE in 3_Implementation | By Dhayanithi and farahdulla with the help of Abishek and Kirubakaran K|
+| 2BiCom_System Git Repo | Abishek and Kirubakaran K |
+
+---
