@@ -10,7 +10,7 @@
 |---|---|
 | 1Remote_Keyless_Entry CODE in 3_Implementation | Abishek and Kirubakaran K |
 | 1Remote_Keyless_Entry Git Repo | Abishek and Kirubakaran K|
-| 2BiCom_System ONLY CODE in 3_Implementation | By Dhayanithi and farahdulla with the help of Abishek and Kirubakaran K|
+| 2BiCom_System ONLY CODE in 3_Implementation | By Dhayanithi and farahdulla|
 | 2BiCom_System Git Repo | Abishek and Kirubakaran K |
 
 # DONEBY
