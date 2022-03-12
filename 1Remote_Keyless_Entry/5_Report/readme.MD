@@ -45,11 +45,14 @@ _____________________________________
 |LLR 2|HLR 2| IF THE BUTTON IS PRESSED TWICE ALL THE LED'S WILL TURN OFF|
 |LLR 3|HLR 3| IF THE BUTTON IS PRESSED THREE TIMES THE LED'S WILL TURN ON IN CLOCKWISE MANNER|
 |LLR 4|HLR 4| IF THE BUTTON IS PRESSED FOUR TIMES THE LED'S WILL TURN ON IN ANTI-CLOCKWISE|
+____________________________________
 # 3. ARCHIETECTURE
 ## 3.1 BEHAVIOURAL DIAGRAM
+![D - Page 1](https://user-images.githubusercontent.com/98813646/157810733-62cd2d35-65d1-46be-a5dc-b5e05b162465.png)
 
 ## 3.2 STRUCTURAL DIAGRAM
-
+![](https://user-images.githubusercontent.com/99136276/158003029-e4aa4141-de82-46a7-a481-980dcfe07c82.png)
+_________________________
 # 4. TESTPLAN AND OUTPUT
 ## 4.1 HIGH LEVEL TEST PLAN
 
