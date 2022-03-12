@@ -55,8 +55,11 @@ ________________________________________
 _______________________
 # 3. ARCHIETECTURE
 ## 3.1 BEHAVIOURAL DIAGRAM
+[![image](https://www.linkpicture.com/q/FLOW-2.jpeg)](https://www.linkpicture.com/view.php?img=LPic622c3ca9273071100226799)
 
-## 3.2 STRUCTURAL DIAGRAM
+# 3.2 STRUCTURAL DIAGRAM
+[![image](https://www.linkpicture.com/q/FLOW-3.jpeg)](https://www.linkpicture.com/view.php?img=LPic622c3d58b35ca850880104)
+
 _______________________________
 # 4. TESTPLAN AND OUTPUT
 ## 4.1 HIGH LEVEL TEST PLAN
